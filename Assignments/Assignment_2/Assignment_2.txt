@@ -1,0 +1,4 @@
+This will have two parts:
+1. On the bag of words features calculated on UCM, make a three layer MLP. You can experiment on the number of nodes in the hidden layer, choice of activation etc.
+2. Downscale each image of UCM to 72 x 72, linearized then, and again train a three layer MLP.
+Report the classification performance. Maintain the same train text split as of the bag of words case.
