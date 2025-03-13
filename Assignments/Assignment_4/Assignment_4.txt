@@ -1,0 +1,1 @@
+For the CNN implemented in the previous assignment, use different optimizers and show the loss plots (how quickly or slowly the models are converging)
